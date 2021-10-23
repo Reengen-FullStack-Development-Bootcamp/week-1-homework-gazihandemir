@@ -1,18 +1,2 @@
-# deneme
-
-> deneme projesi
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Patika.dev & Reengen Fullstack Bootcamp Homework-1
+![shoe](https://user-images.githubusercontent.com/32431593/138571766-79d1cf89-bbb8-435a-b0df-9c704cfd9630.png)
